@@ -3,6 +3,10 @@ Project Overview:
 
 This project analyzes an e-commerce dataset to uncover insights related to revenue trends, customer behavior, and product performance.
 
+Dataset
+
+Olist Brazilian E-commerce Dataset (Kaggle)
+
 Tools Used:
 
 Python (Pandas, Matplotlib)
