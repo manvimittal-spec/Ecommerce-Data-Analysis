@@ -23,5 +23,5 @@ The cama_mesa_banho category generated the highest revenue (~₹17 lakhs), highl
 
 Majority of customers fall under low-engagement segments, indicating opportunities for improving retention strategies
 
-colab link: https://colab.research.google.com/drive/1vgVOZrLn3q44yVB5EkZPyLP2iwM6EoJD?usp=sharing
+
 
